@@ -1,30 +1,12 @@
 # WebRTC Signaling Server Ayame NodeJS Version
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/shiguredo/ayame.svg)](https://github.com/shiguredo/ayame-nodejs)
+[WebRTC Signaling Server Ayame](https://github.com/shiguredo/ayame) の Node.js バージョンです。
 
-[WebRTC Signaling Server Ayame](https://github.com/shiguredo/ayame) の NodeJS バージョンです。
-
-Ayame 同様に WebRTC の P2P でのみ動作します。また動作を 1 対 1 に制限することでコードを小さく保っています。
-
-## 注意
-
-- Ayame/Ayame-NodeJS は P2P にしか対応していません
-- Ayame/Ayame-NodeJS は 1 対 1 にしか対応していません
-- サンプルが利用している STUN サーバは Google のものを利用しています
+詳細については Ayame のリポジトリをご覧ください。
 
 ## 使ってみる
 
 Ayame NodeJS を使ってみたい人は [USE.md](doc/USE.md) をお読みください。
-
-## サンプルを使ってみる
-
-**このリポジトリにあるサンプルと全く同じ仕組みになっています**
-
-- Vue サンプル
-    - [shiguredo/ayame\-vue\-sample](https://github.com/shiguredo/ayame-vue-sample)
-- React サンプル
-    - [shiguredo/ayame\-react\-sample](https://github.com/shiguredo/ayame-react-sample)
-
 
 ## ライセンス
 
