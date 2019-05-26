@@ -2,11 +2,7 @@
 
 [WebRTC Signaling Server Ayame](https://github.com/shiguredo/ayame) の Node.js バージョンです。
 
-詳細については Ayame のリポジトリをご覧ください。
-
-## 使ってみる
-
-Ayame NodeJS を使ってみたい人は [USE.md](doc/USE.md) をお読みください。
+このリポジトリはメンテンナンスが終了しています。
 
 ## ライセンス
 
